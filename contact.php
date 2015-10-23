@@ -8,7 +8,7 @@ include 'includes/nav.php';
 	</header>
 	<div class="container">
 		<div class="row">
-		 <h3> CSE 4th Sem DBMS Project by </h3>
+		 <h3> CSE 5th Sem Software Engineering Project by </h3>
 		 	<table class="table table-striped table-hover ">
 				  <thead>
 				    <tr>
